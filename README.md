@@ -1,5 +1,10 @@
 # muse-pride-entry
 
+[![make.fun · u-mang-one-line-of-earned-pride-a0138557](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
+[![rank](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/tachyon0215/muse-pride-entry/rank.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
+[![reward](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/tachyon0215/muse-pride-entry/reward.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
+
+
 Entry for the make.fun competition [One Line of Earned Pride](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557).
 
 ## The entry
