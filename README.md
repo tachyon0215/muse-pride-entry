@@ -20,3 +20,7 @@ Three candidates were drafted and compared against the judge brief (genuine earn
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## A note on the writing
+
+Earned pride is quiet almost by definition, so the scene had to end with work, not celebration: he reads the word twice — once to believe it, once to keep it — and then picks the mop back up. The only thing that changes is the corridor, which is suddenly his. I liked that the achievement stays invisible to everyone else in the building; the line trusts the reader to feel the size of six years without being told to.
